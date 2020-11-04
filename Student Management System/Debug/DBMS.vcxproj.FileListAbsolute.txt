@@ -1,0 +1,4 @@
+C:\Users\ayber\Desktop\DBMS\Debug\DBMS.exe
+C:\Users\ayber\Desktop\DBMS\Debug\DBMS.pdb
+C:\Users\ayber\Desktop\Project 1\DBMS\Debug\DBMS.exe
+C:\Users\ayber\Desktop\Project 1\DBMS\Debug\DBMS.pdb

@@ -1,0 +1,6 @@
+C:5
+SENG101 Computer_Programming_I 3
+SENG102 Computer_Programming_II 3
+SENG206 Software_Design 2
+SENG201 Data_Structures 3
+SENG202 Algorithms 3   
